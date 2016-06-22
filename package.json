@@ -6,8 +6,8 @@
   "license": "MIT",
   "repository": "oleics/node-ac-linker",
   "main": "./linker.js",
-  "bin" : {
-    "ac-linker" : "./bin/cli.js"
+  "bin": {
+    "ac-linker": "./bin/cli.js"
   },
   "dependencies": {}
 }
