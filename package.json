@@ -1,7 +1,7 @@
 {
   "name": "ac-linker",
   "description": "Link directories and packages.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Oliver Leics <oliver.leics@gmail.com>",
   "license": "MIT",
   "repository": "oleics/node-ac-linker",
