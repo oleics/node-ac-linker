@@ -2,7 +2,9 @@
   "name": "ac-linker",
   "description": "Link directories and packages.",
   "version": "1.0.0",
-  "private": true,
+  "author": "Oliver Leics <oliver.leics@gmail.com>",
+  "license": "MIT",
+  "repository": "oleics/node-ac-linker",
   "main": "./linker.js",
   "bin" : {
     "ac-linker" : "./bin/cli.js"

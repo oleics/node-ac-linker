@@ -7,6 +7,14 @@ Symlink directories and packages.
 Install
 -------
 
+For command-line
+
+```sh
+npm install ac-linker -g
+```
+
+For another package
+
 ```sh
 npm install ac-linker --save
 ```
