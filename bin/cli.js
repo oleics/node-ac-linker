@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 var LINKER_JSON = 'linker.json';
 
